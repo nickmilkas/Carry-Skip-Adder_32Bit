@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Carry-Skip Adder 32-bit
 
 ## Overview
@@ -33,8 +32,3 @@ Below is the block diagram of the Carry-Skip Adder structure:
 
 ## Conclusion
 The **Carry-Skip Adder** provides an efficient method for fast addition, especially for large bit-width numbers. It balances speed and complexity, making it ideal for applications requiring rapid arithmetic operations.
-
-
-=======
-# Carry-Skip-Adder_32Bit
->>>>>>> 5d033526db44ec4fec2f6168b5a0766b1ebc4289
